@@ -3,4 +3,4 @@ Python algorythm that utilizes Simplified Data Encryption Standard (SDES) for en
 
 It asks for an especification of the type of input(plaintext, bytes, or encrypted plaintext), and outputs accordingly.
 
-This is a re-make of an algorithm I wrote for schoolwork, with slightly better readability
+This is a rewrite of an algorithm I wrote for schoolwork, with slightly better readability
